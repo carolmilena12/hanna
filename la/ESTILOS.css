@@ -1,0 +1,29 @@
+*¨{
+ margin: 1000;
+}
+.cotenedor{
+    background-color: rgb(95,167,119);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+h1{
+    font: oblique bold 200% arial;
+    padding: 15% ;
+    color: burlywood
+   
+
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+#yesbtn{
+    transform:translate(-100%,0);
+    font: oblique bold 120% cursive
+}
+#nobtn{
+    position: absolute;
+     font: oblique bold 120% cursive
+}
