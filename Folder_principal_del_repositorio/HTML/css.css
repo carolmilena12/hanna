@@ -1,0 +1,51 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+
+background-image: url(https://static.skillshare.com/cdn-cgi/image/quality=85,width=1242,height=839,format=auto/uploads/project/320878/cover_1242_4aba88dc29c7243119aff8024c2f1599.jpg) ;
+} 
+header{
+gap: 18px;
+
+
+}
+a{
+background-color: aliceblue;
+justify-content: space-between;
+}
+nav{
+border:9px solid rgb(255, 255, 253);
+justify-content: 10em space-between;
+font-size: Helvetica;
+background-color: aliceblue;
+} 
+
+
+#uno{
+position: absolute;
+align-items: end;
+left: 1100px;
+}
+#dos{
+position: absolute;
+left: 1200px;
+}
+#tres{
+position: absolute;
+left: 1000px;
+
+}
+#numero{
+position: absolute;
+left: 700px;
+font-size: 30px;
+
+}
+.ab{
+font-size: 30px;
+}
+.no{
+font-size: 50px;
+
+}
